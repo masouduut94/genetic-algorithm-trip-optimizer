@@ -17,3 +17,11 @@ Next, We build the model based on the output file of the previous step.
 ### TSP_Genetic_Optimizer.ipynb
 
 In this step we build the genetic algorithm optimizer based on the previous step output model.
+
+
+**TODO NEXT:**
+Use PSO algorithm for solving TSP problem
+
+**TODO NEXT**
+
+Use differnet customized kernels for SVM Regression and use it for building model.
