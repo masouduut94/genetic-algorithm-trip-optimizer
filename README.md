@@ -20,6 +20,7 @@ In this step we build the genetic algorithm optimizer based on the previous step
 
 
 **TODO NEXT:**
+
 Use PSO algorithm for solving TSP problem
 
 **TODO NEXT**
