@@ -1,5 +1,5 @@
 # genetic-algorithm-trip-optimizer
-The project results in an evolutionary algorithm based agent which finds the best path for a Sales Person Problem. The agent uses Xgboost model to predict the trip duration and use that as the fitness metric.
+The project splits in 2 parts. In first part initially we use data analysis and feature extraction for dataset. After that we define the best model that can use extracted features to predict the travel time with least possible error. In the second part we use genetic algorithm to find the path between random locations in test data which has the minimum distance. 
 
 
 ## Dataset
